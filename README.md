@@ -1,6 +1,6 @@
 # Playwright API Test Suite – Weather API
 
-This project is a backend-focused test suite built with [Playwright](https://playwright.dev) and TypeScript to test a live weather API. It sends HTTP requests to deployed endpoints and verifies response structure, status codes, and error handling.
+This project is a backend-focused test suite built with [Playwright](https://playwright.dev) and JavaScript to test a live weather API. It sends HTTP requests to deployed endpoints and verifies response structure, status codes, and error handling.
 
 Tests cover both valid and invalid input scenarios to ensure the API is reliable and production-ready.
 
